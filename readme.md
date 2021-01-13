@@ -1,5 +1,5 @@
 # Assignment one
 
-## vue batch 2 nano camp
+## github practice
 
 This our first assignment
